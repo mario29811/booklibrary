@@ -55,5 +55,3 @@ The frontend is a single-page application built with React.js. It provides a use
 ## Contributor
 - Daniel Wang
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
